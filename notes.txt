@@ -1,0 +1,8 @@
+2 types of transformations
+
+affine : that are parallel will be parallel after the transformations
+perspective: not sure
+
+---------
+
+convolution produces a smaller picture

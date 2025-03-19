@@ -12,3 +12,6 @@
 !.gitignore
 !.vscode/*.json
 !*.jpeg
+!*.txt
+!*.png
+!*.jpg
