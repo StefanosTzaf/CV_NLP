@@ -51,7 +51,7 @@ def fixImg(value):
         return img  # If not enough points, return the original image
 
 
-# Build the Gradio interface
+# Build the Gradio interface - more detailed than gr.Interface
 with gr.Blocks() as demo:
     gr.Markdown('Document Scanner')
     

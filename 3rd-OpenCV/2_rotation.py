@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img = cv2.imread('photos/dnd.jpg')
+img = cv2.imread('../photos/dnd.jpg')
 # πρωτα το υψος!
 height, width = img.shape[:2]
 print(width)

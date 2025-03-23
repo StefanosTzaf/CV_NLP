@@ -6,6 +6,7 @@ def foo(name,intensity):
 
 # define the gradion interface
 demo=gr.Interface(
+    # we say to Gradio to use the function foo when the button is clicked
     fn=foo,
     inputs=['text',"slider"],
     outputs=['text']
